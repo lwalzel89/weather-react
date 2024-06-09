@@ -9,6 +9,21 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <div className="p">
+      This project was coded by{" "}
+      <a href="https://github.com/lwalzel89" target="_blank">
+        👩🏻‍💻 Lisa Walzel
+      </a>
+      , is{" "}
+      <a href="https://github.com/lwalzel89/weather-react" target="_blank">
+        open-sourced on GitHub
+      </a>{" "}
+      and hosted on{" "}
+      <a href="https://mellow-beijinho-039913.netlify.app/" target="_blank">
+        Netlify
+      </a>
+      .
+    </div>
   </React.StrictMode>
 );
 

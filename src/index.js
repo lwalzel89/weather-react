@@ -11,15 +11,23 @@ root.render(
     <App />
     <div className="p">
       This project was coded by{" "}
-      <a href="https://github.com/lwalzel89" target="_blank">
+      <a href="https://github.com/lwalzel89" target="_blank" rel="noreferrer">
         👩🏻‍💻 Lisa Walzel
       </a>
       , is{" "}
-      <a href="https://github.com/lwalzel89/weather-react" target="_blank">
+      <a
+        href="https://github.com/lwalzel89/weather-react"
+        target="_blank"
+        rel="noreferrer"
+      >
         open-sourced on GitHub
       </a>{" "}
       and hosted on{" "}
-      <a href="https://mellow-beijinho-039913.netlify.app/" target="_blank">
+      <a
+        href="https://mellow-beijinho-039913.netlify.app/"
+        target="_blank"
+        rel="noreferrer"
+      >
         Netlify
       </a>
       .
